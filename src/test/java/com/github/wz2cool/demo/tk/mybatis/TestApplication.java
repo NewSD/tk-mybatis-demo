@@ -19,5 +19,7 @@ public class TestApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestApplication.class, args);
         System.out.println("tets......");
+        System.out.println("tets.3.....");
+        System.out.println("tets....4..");
     }
 }
